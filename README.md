@@ -18,7 +18,7 @@
 </p>
 
 <div align="center" style="background-color:black;border:3px solid black;border-radius:6px;margin:5px 0;padding:2px 5px">
-    <img src="./logo.jpeg" alt="logo" style="color:red;background-color:black;font-weight:bold" />
+    <img src="./logo.jpg" alt="logo" style="color:red;background-color:black;font-weight:bold" />
 </div>
 
 **Electron** is powerful, easy to use command-line AI assistant inspired by J.A.R.V.I.S.
